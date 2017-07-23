@@ -1,5 +1,5 @@
 body {
-  background-image: url("../img/main-bg.jpeg");
+  background-image: url("./img/main-bg.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -103,10 +103,10 @@ h1 {
 }
 
 h3 {
-font-family: var(--primary-font);
-font-size: 2rem;
-font-weight: bold;
-color: white;
+  font-family: var(--primary-font);
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
 }
 
 .arrow-down-button {
