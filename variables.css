@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro');
+
+:root {
+
+/*Text*/
+  --white: #ffffff;
+  --primary-font: "Maven Pro", sans-serif;
+
+/*Layout*/
+  --nav-height-mobile: 80px;
+}
